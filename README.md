@@ -8,8 +8,8 @@ My name is Renato Pessoa. I work as a Software Developer at Zup Innovation.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pessoas&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pessoas&layout=compact&count_private=true&theme=synthwave&langs_count=10)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=pessoas&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=pessoas&count_private=true&show_icons=true&theme=synthwave)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pessoas&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pessoas&hide_border=true&theme=synthwave)
